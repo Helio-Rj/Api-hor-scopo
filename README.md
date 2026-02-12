@@ -23,7 +23,18 @@ Este repositório contém um script simples (`app.py`) que demonstra:
   - [Contribuição](#contribuição)
   - [Licença](#licença)
 
+
+📂 Estrutura do projeto
+
+Api-hor-scopo/
+│── src/
+│   └── main.py
+│── requirements.txt
+│── README.md
+
+
 ## Visão geral
+
 
 O script principal, `app.py`, faz o seguinte fluxo:
 
@@ -165,3 +176,5 @@ Se quiser, posso também:
 - Adicionar um pequeno teste unitário (pytest) que valida o fluxo com mocks.
 
 Diga qual dessas melhorias prefere que eu implemente em seguida.
+
+Autor Hélio do Nascimento Silva
