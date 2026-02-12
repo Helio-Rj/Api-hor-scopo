@@ -1,5 +1,7 @@
 
-# Consulta de Horóscopo com Tradução
+# API Horóscopo
+![Python](https://img.shields.io/badge/python-3.x-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)![Python](https://img.shields.io/badge/python-3.x-blue.svg)
 
 Uma pequena ferramenta em Python que busca o horóscopo diário para um signo em uma API pública e tenta traduzir o texto para português.
 
