@@ -126,7 +126,9 @@ https://horoscope-app-api.vercel.app/api/v1/get-horoscope/daily?sign=<signo>
 - Para tradução, o script usa `googletrans`. Caso a tradução gere uma coroutine (dependendo da versão), o script lida com ambos os casos (sincrono/assíncrono) e faz fallback para o texto original em caso de erro.
 
 
-![horoscpo.png](..%2F..%2Fhoroscpo.png)
+## 📸 Exemplo de execução
+![Exemplo de saída](docs/screenshot.png)
+
 
 ## Soluções de problemas (troubleshooting)
 
